@@ -1,1 +1,2 @@
 # Terraform main config
+provider 
